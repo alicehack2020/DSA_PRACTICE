@@ -64,12 +64,8 @@ function sum()
     var l=0
     var r=num.length-1
 
-    //2,7,11,15
-   // 2+15=17
-    //2,7,11,15  9
-
-    sunil
-    asunil
+    
+    
 
     var obj={}
     var new_str=[]
